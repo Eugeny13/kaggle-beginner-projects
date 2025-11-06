@@ -1,2 +1,2 @@
 # kaggle-beginner-projects
-My first project Kaggle (Titanic+ House Prices)
+My first projects Kaggle (Titanic+ House Prices)
